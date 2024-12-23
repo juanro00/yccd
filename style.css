@@ -66,6 +66,10 @@ a {
     background-color: #f0f0f0;
 }
 
+.break {
+    margin-bottom: 25px;
+}
+
 /* Added media query */
 @media (max-width: 520px) {
     .container {
